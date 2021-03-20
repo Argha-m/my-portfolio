@@ -10,7 +10,7 @@ export default class Banner extends React.Component {
                     <img src={bannerImage} alt="" />
                 </div>
                 <div className="banner-content">
-                    <h1></h1>
+                    <h1>Home</h1>
                     <p></p>
                 </div>
             </div>
